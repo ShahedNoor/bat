@@ -40,7 +40,7 @@ $ pkg install openssh
 
 <br/>
 
-$ git clone https://github.com/botolmehedi/bat
+$ git clone https://github.com/ShahedNoor/bat
 
 <br/>
 
@@ -72,11 +72,11 @@ $ python2 bat.py
 
 <br/>
 
- • TOOL USERNAME: botol
+ • TOOL USERNAME: noor
 
 <br/>
 
- • TOOL PASSWORD: botol
+ • TOOL PASSWORD: noor
 
 <br/>
 
@@ -86,33 +86,17 @@ $ python2 bat.py
 
 ### Subscribe our channel on youtube:
 
-https://www.youtube.com/MasterTrick1
-
-### Chekout our webite:
-
-https://www.mastertrick.design
+https://www.youtube.com/channel/UCIXobCPf8An4fXHr_fuXRgg
 
 ## 馃懃 ***Join***
 
 ### Facebook group: 
 
-https://www.facebook.com/groups/231747098048450
-
-### Telegram channel:
-
-https://t.me/mastertrick2
-
-### Facebook page:
-
-https://www.facebook.com/TeamVVirus
-
-### Instagram: 
-
-https://www.instagram.com/MehtanOfficial
+https://www.facebook.com/groups/736426820203523/?ref=share
 
 ### My GitHub ID link:
 
-https://www.github.com/BotolMehedi
+https://www.github.com/ShahedNoor
 
 ### 馃摙 Warning
 

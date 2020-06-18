@@ -72,11 +72,11 @@ $ python2 bat.py
 
 <br/>
 
- • TOOL USERNAME: noor
+ • TOOL USERNAME: botol
 
 <br/>
 
- • TOOL PASSWORD: noor
+ • TOOL PASSWORD: botol
 
 <br/>
 
